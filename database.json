@@ -1,0 +1,42 @@
+    {
+      "materials": {
+        "Telugu": [
+          {
+            "displayName": "10th Class Telugu",
+            "path": "10th Telugu.pdf",
+            "isYouTube": false
+          }
+        ],
+        "English": [],
+        "Maths": [],
+        "Science": [],
+        "Social": [],
+        "Psychology": [],
+        "Methods": []
+      },
+      "videos": {
+        "Telugu": [
+          {
+            "displayName": "Vennelintha Vediga Song (YouTube)",
+            "path": "https://www.youtube.com/watch?v=_0ak7rWPlmU",
+            "isYouTube": true
+          }
+        ],
+        "English": [],
+        "Maths": [],
+        "Science": [],
+        "Social": [],
+        "Psychology": [],
+        "Methods": []
+      },
+      "tests": {
+        "Telugu": [],
+        "English": [],
+        "Maths": [],
+        "Science": [],
+        "Social": [],
+        "Psychology": [],
+        "Methods": []
+      }
+    }
+    
